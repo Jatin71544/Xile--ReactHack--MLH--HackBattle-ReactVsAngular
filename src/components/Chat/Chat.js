@@ -12,7 +12,7 @@ function Chat() {
         <Avatar src="spacestation.jpg" />
 
        <div className="chat_headerInfo">
-          <h3>Haker Battle React vs Angular</h3>
+          <h3>Hacker Battle React vs Angular</h3>
           <p>online</p>
        </div>
 
@@ -40,7 +40,7 @@ function Chat() {
 
         <p className="chat_message chat_reciever">
           <span className="chat_name">React</span>
-          Hello bro, haven't seen you lately..
+          Ya, i was busy
           <span className="chat_timestamp">
            {new Date().toUTCString()}
           </span>
@@ -48,7 +48,7 @@ function Chat() {
 
         <p className="chat_message">
           <span className="chat_name">Angular</span>
-          Hello bro, haven't seen you lately..
+          looks like you are getting popular
           <span className="chat_timestamp">
            {new Date().toUTCString()}
           </span>
@@ -56,7 +56,7 @@ function Chat() {
 
         <p className="chat_message">
           <span className="chat_name">Angular</span>
-          Hello bro, haven't seen you lately..
+          having a lot of demand
           <span className="chat_timestamp">
            {new Date().toUTCString()}
           </span>
@@ -64,7 +64,7 @@ function Chat() {
 
         <p className="chat_message">
           <span className="chat_name">Angular</span>
-          Hello bro, haven't seen you lately..
+          hmmm..
           <span className="chat_timestamp">
            {new Date().toUTCString()}
           </span>
@@ -72,7 +72,7 @@ function Chat() {
 
         <p className="chat_message chat_reciever">
           <span className="chat_name">React</span>
-          Hello bro, haven't seen you lately..
+          easy upto date and hence i'm in high demand
           <span className="chat_timestamp">
            {new Date().toUTCString()}
           </span>
@@ -80,7 +80,7 @@ function Chat() {
 
         <p className="chat_message">
           <span className="chat_name">Angular</span>
-          Hello bro, haven't seen you lately..
+          its your ego speaking
           <span className="chat_timestamp">
            {new Date().toUTCString()}
           </span>
@@ -88,7 +88,7 @@ function Chat() {
 
         <p className="chat_message chat_reciever">
           <span className="chat_name">React</span>
-          Hello bro, haven't seen you lately..
+          Look there is demand of mine accept or not i have work I'll go now, BYE!! 
           <span className="chat_timestamp">
            {new Date().toUTCString()}
           </span>
