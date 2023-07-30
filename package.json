@@ -1,5 +1,5 @@
 {
-  "name": "xile-reacthack",
+  "name": "xile-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,12 +38,13 @@
       "last 1 safari version"
     ]
   },
-  "description": "Xile is a Social media React Hack for MLH HackBattle React Vs Angular, basically recently Meta launched Thred which a kind of copy Twitter UI/UX, So lets try to take \"inspiration\" from Whatsapp UI/UX and alter it as our need and have some fun while doing it, maybe Elon may buy it as it could be a part of his leagacy X.",
-  "main": "index.js",
-  "author": "Jatin71544",
-  "license": "MIT",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.html",
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "Xile--ReactHack--MLH--HackBattle-ReactVsAngular"
-  }
+  },
+  "author": "Jatin71544",
+  "license": "ISC"
 }
