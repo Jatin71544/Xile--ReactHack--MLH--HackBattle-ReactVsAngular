@@ -9,7 +9,7 @@ function Chat() {
   return (
     <div className="chat">
       <div className="chat_header">
-        <Avatar src="spacestation.jpg" />
+        <Avatar src="./spacestation.jpg" />
 
        <div className="chat_headerInfo">
           <h3>Hacker Battle React vs Angular</h3>
