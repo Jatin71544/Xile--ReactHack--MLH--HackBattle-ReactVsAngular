@@ -95,7 +95,9 @@ function Chat() {
         </p>
        </div>
        <div className="chat_footer">
-        <InsertEmoticonIcon />
+        <IconButton>
+          <InsertEmoticonIcon />
+        </IconButton>
           <form>
            <input
              placeholder="Type a message"
@@ -105,7 +107,9 @@ function Chat() {
               Send a message
             </button>
           </form>
-          <MicIcon />
+          <IconButton>
+           <MicIcon />
+          </IconButton>
        </div>
     </div>
   );
